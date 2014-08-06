@@ -7,7 +7,7 @@ $( document ).ready(function() {
     autoplaySpeed: 2000,
     responsive: [
     {
-      breakpoint: 768,
+      breakpoint: 1024,
       settings: {
         slidesToShow: 1,
         slidesToScroll: 1,
