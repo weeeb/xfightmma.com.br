@@ -29,6 +29,10 @@ header,
   padding-left: 15px;
 }
 
+.fight img {
+  width: 95%;
+}
+
 header {
   margin-bottom: 30px;
 }
