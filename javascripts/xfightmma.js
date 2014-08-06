@@ -5,6 +5,17 @@ $( document ).ready(function() {
     centerPadding: '10px',
     autoplay: true,
     autoplaySpeed: 2000,
+    responsive: [
+    {
+      breakpoint: 768,
+      settings: {
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        infinite: true,
+        dots: true
+      }
+    }
+  ]
   });
 
   $('#tickets').on('click', function(){
