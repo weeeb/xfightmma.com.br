@@ -15,9 +15,7 @@ body {
 }
 
 .facebook {
-    height: 400px;
-    text-align: center;
-    padding-top: 2.2%;
+    height: 300px;
 }
 
 /* Everything but the jumbotron gets side spacing for mobile first views */
